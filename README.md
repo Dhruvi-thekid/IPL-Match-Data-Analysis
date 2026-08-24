@@ -101,12 +101,11 @@ The project includes a Streamlit dashboard with:
 - Toss analysis
 - Filtered dataset information
 
-### Dashboard Preview
+### 📸 Dashboard Preview
 
+![IPL Dashboard](Dahboard_Preview.png)
 
-
-
----
+![Filtered Dashboard](Dashboard_Team_Performance.png)
 
 ## 🛠️ Technologies Used
 
