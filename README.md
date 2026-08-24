@@ -103,7 +103,8 @@ The project includes a Streamlit dashboard with:
 
 ### Dashboard Preview
 
-Add screenshots of the dashboard here after completing the project.
+
+
 
 ---
 
